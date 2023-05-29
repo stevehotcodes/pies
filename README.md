@@ -5,8 +5,8 @@
 * container *
 * DOM *
 * sections 
-![This text links to gfg ] (https://wwww.placeholder.com)
-t
+![This text links to page ] (https://steve-pies.netlify.app/)
+
 
 
 
